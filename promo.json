@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "interval": 3000,
+  "link": "premium.html",
+  "images": [
+    "https://hanjuelearning.my.id/promo/promo1.png",
+    "https://hanjuelearning.my.id/promo/promo2.png",
+    "https://hanjuelearning.my.id/promo/promo3.png",
+    "https://hanjuelearning.my.id/promo/promo4.png"
+  ]
+}
